@@ -1,0 +1,34 @@
+{MM-Mm-MM}
+hola
+pablo
+casa
+
+solucion: {HOla-PAblo-CAsa}
+
+arreglo char p_final //arreglo donde guardo la solucion
+boolean q=true, w=false
+guardo
+if(q) //q= true
+p_final[{]
+p_final[H]
+q=false
+p_final[O]
+q=false
+
+cunado llegamos al cararcter "-" lo almacenamos en un aux char y no lo guardamos en el arreglo
+
+if(q)//q=false
+almacenamos en un aux char y no lo guardamos en el arreglo
+w=true;
+
+while(palabra[j].leng==r)
+int letra = (int) palabra[j].charAt(r)
+p_final[k]=(char)letra;
+r++;
+}
+p_final[l]
+p_final[a]
+p_final[-] 
+j++
+
+paso al siguiente caracter 
